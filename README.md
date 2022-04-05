@@ -1,5 +1,7 @@
 # InventoManage-backend
 
+To watch the video demonstration of the working of Invento manage, click on this link - https://www.youtube.com/watch?v=cKObvfweFUU
+
 Features of this Inventory Management App
 
 - Perform CRUD operations on the inventory items.
